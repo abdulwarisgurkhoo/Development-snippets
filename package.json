@@ -1,0 +1,12 @@
+{
+  "name": "callbackhell",
+  "version": "1.0.0",
+  "description": "this is program simply shows callbackhell in js programming and its solution using promises and async and await keywords",
+  "license": "ISC",
+  "author": "ABDUL WARIS GURKHOO",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
