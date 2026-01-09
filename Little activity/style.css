@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    
+
+
+}
+/* This goes on the container (usually the body or a wrapper section) */
+.parent-container {
+  display: flex;
+  justify-content: center; /* Aligns horizontally */
+  align-items: center;     /* Aligns vertically */
+  height:100px;
+  width: 100px;      /* Makes the container fill the whole screen */
+  margin: 0;               /* Removes default browser spacing */
+}
+
+/* This is the box you want to center */
+.centered-div {
+  padding: 20px;
+  background-color: lightblue;
+  border: 2px solid #333;
+}
+h1{
+    color: brown;
+    align-self: center;
+}
